@@ -1,9 +1,9 @@
-## Hi there 👋 ,I'm Niharika !
+                                  ## Hi there 👋 ,I'm Niharika !
 
 <!--
 **Niharika-002/Niharika-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science, big data - Spark, ML, SQL, and many more
 - 🌱 I’m currently learning CNN for my next project on Emotion Detection
