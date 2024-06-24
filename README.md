@@ -1,5 +1,7 @@
 ## Hi there 👋 ,I'm Niharika !
-Currently pursuing Btech in Data Science. Batch: 2021 - 2025
+Currently pursuing Bachelors in Technology in Data Science. 
+
+Batch: 2021 - 2025
 
 ### Here are some ideas to get you started:
 
