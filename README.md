@@ -1,6 +1,5 @@
 ## Hi there 👋 ,I'm Niharika !
-
-**Niharika-002/Niharika-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing Btech in Data Science. Batch: 2021 - 2025
 
 ### Here are some ideas to get you started:
 
