@@ -20,3 +20,10 @@ Batch: 2021 - 2025
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Niharika-002/Niharika-002&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=https://github.com/Niharika-002/Niharika-002&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Niharika-002/Niharika-002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
