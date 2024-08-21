@@ -22,8 +22,3 @@ Batch: 2021 - 2025
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Niharika-002&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=https://github.com/Niharika-002)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Niharika-002&layout=compact&theme=radical)
